@@ -1,5 +1,5 @@
 # spam_mail_MLmodel
-In this machine learning , user insert the email content and detect weather mail is spam or not using Logistic Regression Algorithm 
+In this machine learning model , user insert the email content and detect weather mail is spam or not using Logistic Regression Algorithm 
 
 
 the model is developed through following process:
